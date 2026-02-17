@@ -16,7 +16,7 @@ InputOrders/
 *.log
 
 # VS Code
-.vscode/
+# .vscode/ (tracked for Codex web env)
 
 # OS
 .DS_Store
